@@ -1,0 +1,36 @@
+Certainly! Here's the complete text of the task, separated for easy copying:
+
+1. Package - organization.
+
+2. Create a public class Employee - an employee of an organization.
+* The class should not explicitly store the department number or organization name.
+* Each employee holds a specific position.
+* Each employee receives a specific salary.
+* Each employee is characterized by a first and last name.
+* The constructor can take the first and last name (position - engineer, salary - 30k rubles).
+* The constructor can take the first name, last name, position, and salary.
+* Create a method to get the first name.
+* Create a method to change the first name.
+* Create a method to get the last name.
+* Create a method to change the last name.
+* Create a method to get the position.
+* Create a method to change the position.
+* Create a method to get the salary.
+* Create a method to change the salary.
+
+3. Create a public class Department - a department of an organization.
+* The class should not explicitly store the department number or organization name.
+* Different departments have different names.
+* The class explicitly stores an array of its employees.
+* The constructor can take the department name (in this case, the number of employees = 0).
+* The constructor can take an array of employees.
+* Create a method to get the department name.
+* Create a method to change the department name.
+* Create a method to return the total number of employees in the department.
+* Create a method to return the total salary of all employees in the department.
+* Create a method to return a reference to an employee by last name and first name.
+* Create a method to fire an employee (takes the last name, first name, and position of the employee to be removed as input parameters, removes the corresponding element from the employee array).
+* Create a method to hire an employee (takes a reference to an instance of the Employee class as an input parameter, extends the employee array by adding a new element at the end).
+* Create a method to return an array of department employees.
+* Create a method to return an array of department employees sorted by last name (and if the last names are the same, then by first name).
+
