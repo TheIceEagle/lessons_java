@@ -1,0 +1,9 @@
+Enhance the BankAccount class by:
+- Adding a constructor with parameters (owner and initial balance)
+- Creating getter methods for both properties
+- Creating and displaying multiple accounts with different values
+
+Learning goals:
+- Understanding parameterized constructors
+- Implementing getter methods
+- Working with multiple objects

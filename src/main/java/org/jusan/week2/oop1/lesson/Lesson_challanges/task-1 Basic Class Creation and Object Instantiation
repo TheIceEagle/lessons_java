@@ -1,0 +1,10 @@
+Create a simple BankAccount class with:
+- Two properties: owner (String) and balance (int)
+- A default constructor
+- Create two bank account objects in the main method
+
+Learning goals:
+- Understanding class structure
+- Creating class properties
+- Using default constructor
+- Creating objects (class instances)

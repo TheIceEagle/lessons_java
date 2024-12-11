@@ -1,0 +1,11 @@
+Add functionality to the BankAccount class:
+- Method to deposit money
+- Method to withdraw money
+- Method to transfer money between accounts
+- Implement basic validation (e.g., prevent negative balance)
+
+Learning goals:
+- Understanding object behavior
+- Implementing business logic
+- Basic error handling
+- Object interaction
