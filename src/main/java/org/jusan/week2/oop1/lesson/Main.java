@@ -19,8 +19,8 @@ public class Main {
 
 
     }
-    public static void printAll(String[] ...args) {
-        for (String[] s: args) {
+    public static void printAll(String...args) {
+        for (String s: args) {
             System.out.println(s);
         }
     }
