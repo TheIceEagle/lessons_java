@@ -1,6 +1,6 @@
 package org.jusan.week2.oop2.lesson;
 
-public class ClassC extends ClassB implements Speakable{
+public class ClassC extends ClassB implements Switching{
 
     public ClassC() {
         System.out.println("Class C");
@@ -15,8 +15,16 @@ public class ClassC extends ClassB implements Speakable{
         System.out.println("Other message Class c");
     }
 
+
     @Override
-    public void speak() {
-        System.out.println("Speak from interface");
+    public void switchON() {
+        return;
     }
+
+    @Override
+    public void switchOFF() {
+        return;
+    }
+
+
 }

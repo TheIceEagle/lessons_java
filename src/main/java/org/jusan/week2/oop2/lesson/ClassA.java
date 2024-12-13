@@ -1,8 +1,10 @@
 package org.jusan.week2.oop2.lesson;
 
-public class ClassA {
+public class ClassA { //Superclass
 
     String name;
+
+    String key; //field of supercall
     public ClassA() {
         System.out.println("Class A");
     }

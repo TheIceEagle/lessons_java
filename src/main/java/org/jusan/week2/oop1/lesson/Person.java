@@ -1,6 +1,5 @@
 package org.jusan.week2.oop1.lesson;
-
-public class Person {
+ public class Person {
     public String name;
     int age;
 
